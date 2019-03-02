@@ -1,5 +1,5 @@
 {
-  "name": "nytScrape",
+  "name": "newyorktimesScrape",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -18,13 +18,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KurtjKing/nytScrape.git"
+    "url": "git+https://github.com/KurtjKing/newyorktimesScrape.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KurtjKing/nytScrape/issues"
+    "url": "https://github.com/KurtjKing/newyorktimesScrape/issues"
   },
-  "homepage": "https://github.com/KurtjKing/nytScrape#readme"
+  "homepage": "https://github.com/KurtjKing/newyorktimesScrape#readme"
 }
